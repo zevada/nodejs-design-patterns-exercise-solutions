@@ -1,0 +1,1 @@
+Solutions to exercises in "Node.js Design Patterns" 3rd edition by Mario Casciaro & Luciano Mammino (ISBN-10: 1839214112)
