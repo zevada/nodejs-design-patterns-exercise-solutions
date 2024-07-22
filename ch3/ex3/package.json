@@ -1,0 +1,12 @@
+{
+  "name": "a-simple-modification",
+  "version": "1.0.0",
+  "description": "Modify the function created in exercise 3.2 so that it emits a tick event immediately after the function is invoked. ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
